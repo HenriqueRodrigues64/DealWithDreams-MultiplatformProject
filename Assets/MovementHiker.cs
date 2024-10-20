@@ -12,7 +12,7 @@ public class MovementHiker : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
     }
-
+    
 
     void Update()
     {
